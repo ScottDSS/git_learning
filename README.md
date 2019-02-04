@@ -1,6 +1,6 @@
 #Welcome to your git learning tutorial.
 
-Testing 202202.
+Testing on my own.
 
 
 Second time around

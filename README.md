@@ -4,7 +4,7 @@ This is a basic HelloWorld app programme
 
 *Assuming you already have Python istalled*
 
-###To Start
+##To Start
 
 - Open your terminal and type `python` *this will put you in interactive mode*
 - Type `print ("Hello World")` *press enter*

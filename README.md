@@ -22,5 +22,8 @@ If you would like to play around in python and create more than one Hello World 
 
 First step you need to complete is:
 
-Create your own Git repository. 
+Create your own GitHub account. 
 * [GitHub.com](github.com) 
+
+Next step is to create your own repository:
+* [How to create my own repository](https://help.github.com/en/articles/create-a-repo) - Click the link and follow the instructions

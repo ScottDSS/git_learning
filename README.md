@@ -1,6 +1,6 @@
 # Introduction 
 
-This is a basic Hello World app programme. A "Hello World!" programme generally is a computer programme that outputs or displays the message "Hello World!" It is often the first programme that those learning to code write.
+This is a basic Hello World app programme. A "Hello World!" programme generally is a computer programme that outputs or displays the message "Hello World!" It is often the first programme that those learning to code write. Once you have written your "Hello World" programme the next phase will be to create your own GitHub repository and push your Hello World programme there. 
 
 Python already comes pre-installed on Mac OS X
 
@@ -27,3 +27,21 @@ Create your own GitHub account.
 
 Next step is to create your own repository:
 * [How to create my own repository](https://help.github.com/en/articles/create-a-repo) - Click the link and follow the instructions
+
+Next step is to clone your repository to your local terminal.
+
+1 Under the repository name,*click Clone or download.*
+
+2 Copy the clone URL for the repository.
+
+3 Open Terminal.
+
+4 Change the current working directory to the location where you want the cloned directory to be made.
+
+5 Type `git clone`, and then paste the URL you copied in Step 2. e.g `git clone <https://github.com/roger/git_learning.git>`
+
+6 *Press enter* and your local clone will be created.
+
+Now you have created your repository, the next stage will be to push your `Hello World` app to your own Git repo.
+
+

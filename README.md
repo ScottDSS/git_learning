@@ -1,6 +1,6 @@
 # Introduction 
 
-This is a basic Hello World app programme. A "Hello World!" programme generally is a computer program that outputs or displays the message "Hello World!" It is often the first program that those learning to code write.
+This is a basic Hello World app programme. A "Hello World!" programme generally is a computer programme that outputs or displays the message "Hello World!" It is often the first programme that those learning to code write.
 
 Python already comes pre-installed on Mac OS X
 

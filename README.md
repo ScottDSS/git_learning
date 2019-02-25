@@ -4,7 +4,7 @@ This is a basic Hello World app programme. A "Hello World!" programme generally 
 
 Python already comes pre-installed on Mac OS X
 
-### To Start
+## To Start
 
 - Open your terminal and type `python` *this will put you in interactive mode*
 - Type `print ("Hello World")` *press enter*
@@ -15,9 +15,10 @@ If you would like to play around in python and create more than one Hello World 
 *Follow these steps*
 
 - To create a new folder type `mkdir <e.g python_learning>` *press enter*
+- To save your Python example you must `.py` e.g `<01_hello_world.py>`
 - This is where you can save all your python examples.
 
-Now you have had time to play around with python and hopefully created your own *Hello World* app. Its now time to create a Hello World app and push it to your own GitHub repository. 
+### Now you have had time to play around with python and hopefully created your own *Hello World* app. Its now time to create a Hello World app and push it to your own GitHub repository. 
 
 First step you need to complete is:
 

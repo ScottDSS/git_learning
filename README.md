@@ -44,6 +44,3 @@ Next step is to clone your repository to your local terminal.
 6 *Press enter* and your local clone will be created.
 
 Now you have created your repository and cloned it to your local terminal, the next stage will be to push your `Hello World` app to your own Git repo.
-
-
-Heeelllllloooooo

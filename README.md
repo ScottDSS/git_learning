@@ -7,7 +7,8 @@ Python already comes pre-installed on Mac OS X
 ## To Start
 
 - Open your terminal and type `python` *this will put you in interactive mode*
-- Type `print ("Hello World")` *press enter*
+- Type `print ("Hello World")` 
+- *Press enter* to run your programme
 - Type `exit ()` *this will bring you out of interactive mode and take you back to your terminal*
 
 If you would like to play around in python and create more than one Hello World app I advise you to create a folder.

@@ -66,7 +66,7 @@ Now you have created your repository and cloned it to your local terminal, the n
 
 - First thing you want to check is what differences have been made, do the following command. `git diff` 
 - Type `git status` the file you have just edited should be red
-- Type `git add "what file you have update"` e.g `git add README.md`
+- Type `git add "the file you have updated"` e.g `git add README.md`
 - Check the status again `git status` the file should now be green
 - Now you will commit your change(s) `git commit` 
 - As this is your own GitHub you do not need to create a different branch, you can push straight to master. For future this is how to create a new feature branch `git checkout -b <ticket name>`

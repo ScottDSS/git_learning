@@ -36,7 +36,7 @@ If you would like to play around in python and create more than one Hello World 
 - To save your Python example you must `.py` e.g `01_hello_world.py`
 - This is where you can save all your python examples.
 
-*Now you have had time to play around with python and hopefully created your own *Hello World* app. Its now time to create a Hello World app and push it to your own GitHub repository.*
+*Now you have had time to play around with python and hopefully created your own *Hello World* app. Its now time to take  that Hello World app and push it to your own GitHub repository.*
 
 First step you need to complete is:
 

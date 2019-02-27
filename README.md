@@ -11,8 +11,8 @@ Python already comes pre-installed on Mac OS X
 - *Press enter* to run your programme
 - Type `exit ()` *this will bring you out of interactive mode and take you back to your terminal*
 
-A key point here is to also have a basic knownledge VIM. VIM is a text editor. These are a few of the basic commands you'll need to know.
-To insert text in to the text editor you must be in *-- INSERT --* you will find this at the bottom left hand corner. To escape the insert mode you must press `esc`. Before saving or exiting the vim editor you must press `:` followed by `wq` or `q!` see below for details and basic commands.
+A key point here is to also have a basic knownledge of VIM. VIM is a text editor. These are a few of the basic commands you'll need to know.
+To insert text into the text editor you must be in *-- INSERT --* mode to get into the insert mode you must type `i`. you can identify what mode you are in by looking at the bottom left hand corner. To escape the insert mode you must press `esc`. Before saving or exiting the vim editor you must press `:` followed by `wq` or `q!` see below for details and basic commands.
 
 | Command | Note |
 | ------- | ---- |

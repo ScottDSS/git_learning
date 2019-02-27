@@ -24,8 +24,9 @@ To insert text in to the text editor you must be in *-- INSERT --* you will find
 | q! | This exits the editor, not saving any changes made |
 | i | This is to initially insert text |
 
-Here's a coulpe of sites that helped me:
+Here's a coulpe of things that helped me:
 * [Interactive Vim Tutorial](https://www.openvim.com/) 
+* Open your terminal and type `vimtutor`
 
 If you would like to play around in python and create more than one Hello World app I advise you to create a folder.
 

@@ -40,7 +40,7 @@ If you would like to play around in python and create more than one Hello World 
 
 First step you need to complete is:
 
-Create your own GitHub account. 
+### Create your own GitHub account. 
 * [GitHub.com](github.com) 
 
 Next step is to create your own repository:

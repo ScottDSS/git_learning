@@ -12,10 +12,18 @@ Python already comes pre-installed on Mac OS X
 - Type `exit ()` *this will bring you out of interactive mode and take you back to your terminal*
 
 A key point here is to also have a basic knownledge VIM. VIM is a text editor. These are a few of the basic commands you'll need to know.
+To insert text in to the text editor you must be in *-- INSERT --* you will find this at the bottom left hand corner. To escape the insert mode you must press `esc`. Before saving or exiting the vim editor you must press `:` followed by `wq` or `q!` see below for details and basic commands.
 
 | Command | Note |
 | ------- | ---- |
-| h | [Move Left] |
+| h | Move Left |
+| j | Move down |
+| k | Move up |
+| l | Move left |
+| wq | To save any changes to a file |
+| q! | This exits the editor, not saving any changes made |
+| i | This is to initially insert text |
+
 
 If you would like to play around in python and create more than one Hello World app I advise you to create a folder.
 

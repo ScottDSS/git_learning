@@ -22,7 +22,7 @@ To insert text into the text editor you must be in **-- INSERT --** mode to get 
 | l | Move left |
 | wq | To save any changes to a file |
 | q! | This exits the editor, not saving any changes made |
-| i | This is to initially insert text |
+| i | This will put you in insert mode |
 
 Here's a coulpe of things that helped me:
 * [Interactive Vim Tutorial](https://www.openvim.com/) 

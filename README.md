@@ -65,12 +65,19 @@ Now you have created your repository and cloned it to your local terminal, the n
 **Assuming that you have done all your editing and you are happy.**
 
 - First thing you want to check is what differences have been made, do the following command. `git diff` 
-- Type `git status` it should be red
+- Type `git status` the file you have just edited should be red
 - Type `git add "what file you have update"` e.g `git add README.md`
-- Check the status again `git status` it should now be green
+- Check the status again `git status` the file should now be green
 - Now you will commit your change(s) `git commit` 
 - As this is your own GitHub you do not need to create a different branch, you can push straight to master. For future this is how to create a new feature branch `git checkout -b <ticket name>`
 - You can check what branch you are currently on by `git branch` if you haven't created your own branch it should show just **master**
 - We are just going to push straight to master `git push`
 - Now check your GitHub
 
+
+## TODO
+
+- Docker
+- CI Pipeline
+- Deploy to the cloud
+- Make the app do something a bit more advanced than hello world

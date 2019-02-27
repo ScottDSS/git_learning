@@ -11,6 +11,12 @@ Python already comes pre-installed on Mac OS X
 - *Press enter* to run your programme
 - Type `exit ()` *this will bring you out of interactive mode and take you back to your terminal*
 
+A key point here is to also have a basic knownledge VIM. VIM is a text editor. These are a few of the basic commands you'll need to know.
+
+| Command | Note |
+| ------- | ---- |
+| h | [Move Left] |
+
 If you would like to play around in python and create more than one Hello World app I advise you to create a folder.
 
 *Follow these steps*

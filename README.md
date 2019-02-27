@@ -24,6 +24,7 @@ To insert text in to the text editor you must be in *-- INSERT --* you will find
 | q! | This exits the editor, not saving any changes made |
 | i | This is to initially insert text |
 
+
 If you would like to play around in python and create more than one Hello World app I advise you to create a folder.
 
 *Follow these steps*

@@ -77,7 +77,7 @@ Now you have created your repository and cloned it to your local terminal, the n
 
 ## TODO
 
-- Docker
-- CI Pipeline
-- Deploy to the cloud
-- Make the app do something a bit more advanced than hello world
+- Docker.
+- CI Pipeline.
+- Deploy to the cloud.
+- Make the app do something a bit more advanced than hello world.
